@@ -1,0 +1,48 @@
+table{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+td{
+    border: 1px solid black;
+}
+ .resume {
+
+    color: blue;
+  
+}
+h3 {
+    color: midnightblue;
+    border-top-left-radius: 0cm;
+}
+#address{
+    color:black;
+}
+a {
+    color: green;
+  }
+  .Int{
+      color: blue;
+      font-size: medium;
+  }
+  .column{
+      color: navy;
+  }
+.Myrow{
+    color: navy;
+}
+.Inside{
+    color: darkgreen;
+}
+h5{
+    font-size: medium;
+    color: blue;
+}
+.Last{
+    color: darkolivegreen;
+}
+#ls{
+    color: darkgreen;
+}
+body {
+    background-color:lightgray;
+}
